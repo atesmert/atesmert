@@ -3,7 +3,7 @@
 [![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fatesmert&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 - 🤖 I'm a Machine Learning Engineer by day and a Still-Not-Sure-What-I-Am-Doing-Here-Or-How-This-Just-Worked-But-Yeah-I'll-Keep-On-Doing-It-Anyways-Level Game Designer by night.
-- 🔭 I’m currently working as a Data Science Manager/Machine Learning Engineer at BECO Capital.
+- 🔭 I’m currently working as a Principal Machine Learning Engineer at Tenderd.
 - 🚧 I'm currently trying to tidy up my projects under this fresh and clean account, by cleaning up my old accounts and some dusty repos here and there.
 - 🌱 I’m open to learning anything.
 - 📫 How to reach me:
